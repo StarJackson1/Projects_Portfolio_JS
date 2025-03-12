@@ -1,1 +1,32 @@
-enter things here
+List of all Projects With Brief Description
+Individual Description Files are Also in Each Folder
+
+Custom Desk
+custom sit/stand desk for personal use
+
+ESP32 Media Controller
+bluetooth device that controls media with a joystick
+
+Generic Sensor Project
+generic weather sensor with OLED screen
+
+Headphones Project
+3D printed headphones using purchased drivers
+
+Hex Lights
+Hexagonal light boxes for decorative purposes
+
+Image File Checker (CSU)
+compares a .ppm image file with its requisite checksum file
+
+Image File Checksum Generator (CSU)
+generates row-wise and column-wise checksums for .ppm files
+
+Sanctity_BORK
+weapon from LOL for cosplay/decoration purposes
+
+Vesc Onewheel
+Openwheel based on the VESC platform
+
+Weather Station
+Weather station that uploads data to an SQL database to be later viewed through a grafana dashboard
