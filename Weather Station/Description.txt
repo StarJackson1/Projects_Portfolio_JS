@@ -1,0 +1,12 @@
+Weather station that uploads data from a BME688 sensor to an SQL server. This data is then displayed using a Grafana dashboard
+
+Materials/Software Used:
+
+VSCode
+PHP
+Docker
+MySQL
+
+3D Printed PLA Plastic
+BME688 Environmental Sensor
+ESP32 Microcontroller

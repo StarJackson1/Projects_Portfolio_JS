@@ -1,0 +1,6 @@
+Piece of software that generates column-wise and row-wise checksums for .ppm image files
+
+Software Used:
+VSCode
+Make
+Ramdesk

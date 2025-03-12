@@ -1,0 +1,9 @@
+Project mainly for testing, utilizing a BME688 environmental sensor and a screen to display weather data
+
+Materials/Software Used:
+
+Arduino IDE
+
+Arduino Nano
+BME688 Environmental Sensor
+128x64 OLED Display

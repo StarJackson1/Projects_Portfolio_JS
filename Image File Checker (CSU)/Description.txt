@@ -1,0 +1,6 @@
+Piece of software used to compare a .ppm image file to its requisite checksums file
+
+Software Used:
+VSCode
+Ramdesk
+Make

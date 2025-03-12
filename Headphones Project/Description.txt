@@ -1,0 +1,6 @@
+3D printed headphones with drivers from digikey, prototype version
+Materials Used:
+
+3D Printed PLA Plastic
+Headphone Driver (see datasheet)
+Generic Headphone Jack

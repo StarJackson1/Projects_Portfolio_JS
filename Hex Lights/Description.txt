@@ -1,0 +1,7 @@
+Hexagonal light boxes used for decoration
+
+Materials used:
+
+Generic LED Strips
+3D Printed PLA Plastic
+LED controller

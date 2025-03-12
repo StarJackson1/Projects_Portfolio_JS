@@ -1,0 +1,12 @@
+Single wheeled balance board built on the VESC platform. Based on the popular OneWheel
+
+Materials/Software Used
+VESC Tool / VESC Firmware
+VESC Controller
+13 Cell 48V LiPo Battery
+Hub Motor with Tire
+Aluminum Bar
+1/2in Plywood
+Pressure Pads
+Brass Threaded Inserts
+3D Printed PETG Plasic

@@ -1,0 +1,9 @@
+Bluetooth device that allows media control with a joystick
+
+Materials/Software Used
+
+VSCode w/ Platformio
+
+3D printed PLA plastic
+ESP32 Microcontroller
+Generic Potentiometer Joystick Module
